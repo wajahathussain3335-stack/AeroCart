@@ -26,8 +26,6 @@ AeroCart is an ultra-premium, modern, and minimalist Multi-Vendor E-Commerce Mar
 
 ## 📊 Complete Database Schema & SQL Queries
 
-Aapko alag se `.sql` file dhoondne ki zaroorat nahi hai. Local setup ke liye bas niche di gayi SQL queries ko copy karein aur apne **phpMyAdmin > SQL Terminal** mein run kar dein:
-
 ```sql
 -- 1. Create Database
 CREATE DATABASE IF NOT EXISTS `aerocart` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
@@ -101,6 +99,3 @@ Available for Freelance: Open to custom development contracts and enterprise por
 
 📄 License
 This project is proprietary software built for portfolio representation. All rights reserved.
-
-
-Is README fayda yeh hoga ke jab koi professional developer ya client ise dekhega, toh
